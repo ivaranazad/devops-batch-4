@@ -2,3 +2,5 @@ git status
 git log
 git add
 git checkout
+git clone 
+git remote -v
